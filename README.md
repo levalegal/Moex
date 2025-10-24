@@ -115,6 +115,7 @@ data = await fetcher.get_candles(
     till_date='2024-03-01'
 )
 Пример 2: Получение часовых данных для индекса МосБиржи
+рустор
 
 python
 data = await fetcher.get_candles(
